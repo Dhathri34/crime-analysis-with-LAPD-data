@@ -11,4 +11,5 @@ The daily crime occurrence in Los Angeles state is recorded and updated on the w
 Columns/ Variables - 28
 
 Rows/ Observations – 925721
+
 By performing a comprehensive data analysis, we have uncovered valuable insights to support the LAPD in achieving the following objectives Identify patterns and trends, Understand victim demographics, Explore crime type relationships, Predict crime and victim characteristics.
